@@ -244,3 +244,36 @@ If you love cats, and love reading cool graphics, vision, and learning papers, p
 
 ## Acknowledgments
 Our code is inspired by [pytorch-DCGAN](https://github.com/pytorch/examples/tree/master/dcgan).
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Add new Loss: unify alpha beta channels of RecA and real A(the same for B )
+This loss is defined as the L1 Norm loss
+the weights are used from CycConsistency weight(lambda A )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
